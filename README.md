@@ -31,5 +31,3 @@ On my down time, I like watching videos on Twitch and YouTube, listening to musi
 # Play Stack
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"> <img src="https://img.shields.io/badge/Overcast-FC7E0F?style=for-the-badge&logo=overcast&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 
-# Support
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="BuyMeACoffee" width="100">](https://www.buymeacoffee.com/romanbalayan)
