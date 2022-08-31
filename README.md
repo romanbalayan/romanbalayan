@@ -9,7 +9,7 @@ I love solving problems and building creative solutions. Currently, I'm focused 
 On my down time, I like watching videos on Twitch and YouTube, listening to music on Spotify, or listening to podcasts on Overcast.  
 
 # Experience
-- [Maya](https://www.maya.ph/business)|[PayMaya Philippines](http://enterprise.paymaya.com)
+- [Maya](https://www.maya.ph/business) | [PayMaya Philippines](http://enterprise.paymaya.com)
    - <b>Lead Software Engineer</b> - <b>Sep 2020 - Present</b>
    - <b>Senior Software Engineer</b> - <b>Apr 2018 - Sep 2020</b>
    - <b>Software Engineer</b> - <b>Apr 2015 - Apr 2018</b>
