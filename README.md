@@ -16,8 +16,8 @@ On my down time, I like watching videos on Twitch and YouTube, listening to musi
 - [Itemhound Corp](https://www.itemhound.com) - <b>Software Engineer</b> - <b>Nov 2012 - Apr 2015</b>
   
 # Licences and Certifications
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d85d8b5b-b34f-4f01-86c7-df40d6c88e75)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/f862c993-37d9-4649-b533-85ca75e8a72b)
-- [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/d26671bd-eb40-49c5-84d7-6a2b75cd69a2)
 - [Certified PCI Security Implementer](https://www.sisainfosec.com/training/certified-professionals/?svalue=013624&stype=Certificate-Number&search=professionals)
 
 # Skills
